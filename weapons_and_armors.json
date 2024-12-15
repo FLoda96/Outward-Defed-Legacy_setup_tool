@@ -1,0 +1,3630 @@
+[
+    {
+        "m_name": "Scaled Leather Boots",
+        "ItemID": 3000292
+    },
+    {
+        "m_name": "Elite Plate Armor Blue",
+        "ItemID": 3300340
+    },
+    {
+        "m_name": "Crimson Dancer's Clothes",
+        "ItemID": 3000182
+    },
+    {
+        "m_name": "Elite Plate Boots",
+        "ItemID": 3100002
+    },
+    {
+        "m_name": "Elite Black Plate Boots",
+        "ItemID": 3100182
+    },
+    {
+        "m_name": "White Kintsugi Armor",
+        "ItemID": 3100200
+    },
+    {
+        "m_name": "Ash Pathfinder Mask",
+        "ItemID": 3000225
+    },
+    {
+        "m_name": "Skeleton Helm with Hat",
+        "ItemID": 3200033
+    },
+    {
+        "m_name": "Looter Mask",
+        "ItemID": 3000039
+    },
+    {
+        "m_name": "Rust Lich Armor",
+        "ItemID": 3000360
+    },
+    {
+        "m_name": "Skeleton Body",
+        "ItemID": 3200030
+    },
+    {
+        "m_name": "Quartz Armor",
+        "ItemID": 3100400
+    },
+    {
+        "m_name": "White Wide Hat",
+        "ItemID": 3000303
+    },
+    {
+        "m_name": "Militia Boots",
+        "ItemID": 3100462
+    },
+    {
+        "m_name": "Ash-Filter Mask",
+        "ItemID": 3000221
+    },
+    {
+        "m_name": "Yellow Copal Armor",
+        "ItemID": 3000160
+    },
+    {
+        "m_name": "Gray Beggar Hood",
+        "ItemID": 3000134
+    },
+    {
+        "m_name": "White Novice Hat",
+        "ItemID": 3000071
+    },
+    {
+        "m_name": "Tuanosaur Festive Mask",
+        "ItemID": 3000102
+    },
+    {
+        "m_name": "Petrified Wood Armor",
+        "ItemID": 3100020
+    },
+    {
+        "m_name": "Bloody Dress Boots",
+        "ItemID": 3200052
+    },
+    {
+        "m_name": "Silver Armor",
+        "ItemID": 3100100
+    },
+    {
+        "m_name": "GoulgGalog!",
+        "ItemID": 3900003
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300107
+    },
+    {
+        "m_name": "Golden Kazite Light Helmet",
+        "ItemID": 3100244
+    },
+    {
+        "m_name": "Jade Acolyte Cowl",
+        "ItemID": 3000045
+    },
+    {
+        "m_name": "Kazite Light Boots",
+        "ItemID": 3100242
+    },
+    {
+        "m_name": "Beggar Shoes",
+        "ItemID": 3000136
+    },
+    {
+        "m_name": "Petrified Wood Helm",
+        "ItemID": 3100021
+    },
+    {
+        "m_name": "Purple Dancer's Clothes",
+        "ItemID": 3000180
+    },
+    {
+        "m_name": "Candle Plate Armor",
+        "ItemID": 3100040
+    },
+    {
+        "m_name": "Clansage Robe",
+        "ItemID": 3000270
+    },
+    {
+        "m_name": "Virgin Armor",
+        "ItemID": 3100260
+    },
+    {
+        "m_name": "Crimson Boots",
+        "ItemID": 3100482
+    },
+    {
+        "m_name": "Master Kazite Boots",
+        "ItemID": 3100192
+    },
+    {
+        "m_name": "Kintsugi Boots",
+        "ItemID": 3100072
+    },
+    {
+        "m_name": "Golden Kazite Light Boots",
+        "ItemID": 3100245
+    },
+    {
+        "m_name": "Palladium Armor",
+        "ItemID": 3100060
+    },
+    {
+        "m_name": "Entomber Armor",
+        "ItemID": 3000112
+    },
+    {
+        "m_name": "Fur Boots",
+        "ItemID": 3000242
+    },
+    {
+        "m_name": "Black Worker Boots",
+        "ItemID": 3000084
+    },
+    {
+        "m_name": "Half-Plate Armor",
+        "ItemID": 3100006
+    },
+    {
+        "m_name": "Dark Worker's Hood",
+        "ItemID": 3000085
+    },
+    {
+        "m_name": "Tenebrous Boots",
+        "ItemID": 3000142
+    },
+    {
+        "m_name": "Candle Plate Boots",
+        "ItemID": 3100042
+    },
+    {
+        "m_name": "Harmattan Guard Boots",
+        "ItemID": 3100252
+    },
+    {
+        "m_name": "Silver Boots",
+        "ItemID": 3100102
+    },
+    {
+        "m_name": "Blue Sand Armor",
+        "ItemID": 3100080
+    },
+    {
+        "m_name": "Arcane Robe",
+        "ItemID": 3000260
+    },
+    {
+        "m_name": "White Priest Robes",
+        "ItemID": 3000060
+    },
+    {
+        "m_name": "Krypteia Armor",
+        "ItemID": 3100470
+    },
+    {
+        "m_name": "Barrier Armor Helm",
+        "ItemID": 3100441
+    },
+    {
+        "m_name": "Rust Lich Boots",
+        "ItemID": 3000362
+    },
+    {
+        "m_name": "Kazite Boots",
+        "ItemID": 3100114
+    },
+    {
+        "m_name": "Mixed Monster Boots",
+        "ItemID": 3100412
+    },
+    {
+        "m_name": "Plate Boots",
+        "ItemID": 3100005
+    },
+    {
+        "m_name": "Jade Master Cowl",
+        "ItemID": 3000042
+    },
+    {
+        "m_name": "Dark Festive Rich Attire",
+        "ItemID": 3000121
+    },
+    {
+        "m_name": "Fur Armor",
+        "ItemID": 3000240
+    },
+    {
+        "m_name": "Plate Armor",
+        "ItemID": 3100003
+    },
+    {
+        "m_name": "Master Trader Garb",
+        "ItemID": 3000230
+    },
+    {
+        "m_name": "Dancer's Mask",
+        "ItemID": 3000183
+    },
+    {
+        "m_name": "Simple Garb, Dark Green",
+        "ItemID": 3000005
+    },
+    {
+        "m_name": "Squire Headband",
+        "ItemID": 3100153
+    },
+    {
+        "m_name": "Summoned Ghost Boots",
+        "ItemID": 3200042
+    },
+    {
+        "m_name": "Fur Helm",
+        "ItemID": 3000241
+    },
+    {
+        "m_name": "Wolf Mage Armor",
+        "ItemID": 3100210
+    },
+    {
+        "m_name": "Barrier Armor_Legacy",
+        "ItemID": 3100445
+    },
+    {
+        "m_name": "Elite Desert Veil",
+        "ItemID": 3000204
+    },
+    {
+        "m_name": "Patterned Worker's Hood",
+        "ItemID": 3000086
+    },
+    {
+        "m_name": "RingMail Armor",
+        "ItemID": 3100450
+    },
+    {
+        "m_name": "Skeleton Blue Boots",
+        "ItemID": 3300302
+    },
+    {
+        "m_name": "Elite Kazite Oni Mask",
+        "ItemID": 3100194
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300101
+    },
+    {
+        "m_name": "Scavenger Hood",
+        "ItemID": 3000032
+    },
+    {
+        "m_name": "Blue Sand Helmet",
+        "ItemID": 3100081
+    },
+    {
+        "m_name": "Crimson Helmet",
+        "ItemID": 3100481
+    },
+    {
+        "m_name": "Horror Armor",
+        "ItemID": 3100230
+    },
+    {
+        "m_name": "Desert Veil",
+        "ItemID": 3000203
+    },
+    {
+        "m_name": "Pilgrim Armor",
+        "ItemID": 3100160
+    },
+    {
+        "m_name": "Shock Armor",
+        "ItemID": 3100170
+    },
+    {
+        "m_name": "Elite Kazite Cat Mask",
+        "ItemID": 3100193
+    },
+    {
+        "m_name": "Black Plate Armor",
+        "ItemID": 3100093
+    },
+    {
+        "m_name": "Skeleton Boots",
+        "ItemID": 3200032
+    },
+    {
+        "m_name": "Crimson Plate Armor",
+        "ItemID": 3100090
+    },
+    {
+        "m_name": "Crimson Plate Boots",
+        "ItemID": 3100092
+    },
+    {
+        "m_name": "Golden Kazite Light Armor",
+        "ItemID": 3100243
+    },
+    {
+        "m_name": "Desert Boots",
+        "ItemID": 3000205
+    },
+    {
+        "m_name": "Krypteia Helmet",
+        "ItemID": 3100471
+    },
+    {
+        "m_name": "Patterned Worker Attire",
+        "ItemID": 3000081
+    },
+    {
+        "m_name": "White Arcane Robe",
+        "ItemID": 3000340
+    },
+    {
+        "m_name": "Master Desert Boots",
+        "ItemID": 3000322
+    },
+    {
+        "m_name": "Ash Boots",
+        "ItemID": 3000222
+    },
+    {
+        "m_name": "Entomber Hat",
+        "ItemID": 3000115
+    },
+    {
+        "m_name": "Brown Beggar Attire",
+        "ItemID": 3000130
+    },
+    {
+        "m_name": "Bright Festive Nobleman Attire",
+        "ItemID": 3000110
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300111
+    },
+    {
+        "m_name": "Dark Festive Rich Hat",
+        "ItemID": 3000123
+    },
+    {
+        "m_name": "Tsar Armor",
+        "ItemID": 3100140
+    },
+    {
+        "m_name": "Scavenger Boots",
+        "ItemID": 3000034
+    },
+    {
+        "m_name": "Dancer's Leggings",
+        "ItemID": 3000184
+    },
+    {
+        "m_name": "Ash Pathfinder Boots",
+        "ItemID": 3000226
+    },
+    {
+        "m_name": "Summoned Ghost Helm",
+        "ItemID": 3200041
+    },
+    {
+        "m_name": "Black Fur Armor",
+        "ItemID": 3000330
+    },
+    {
+        "m_name": "Jade-Lich Robes",
+        "ItemID": 3000040
+    },
+    {
+        "m_name": "Purple Festive Attire",
+        "ItemID": 3000091
+    },
+    {
+        "m_name": "Caldera Noble Armor Boot",
+        "ItemID": 3100432
+    },
+    {
+        "m_name": "Master Trader Boots",
+        "ItemID": 3000232
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300112
+    },
+    {
+        "m_name": "Looter Armor",
+        "ItemID": 3000038
+    },
+    {
+        "m_name": "Makeshift Leather Attire",
+        "ItemID": 3000280
+    },
+    {
+        "m_name": "Yzan Armor",
+        "ItemID": 3300140
+    },
+    {
+        "m_name": "Elite Worker Armor",
+        "ItemID": 3100420
+    },
+    {
+        "m_name": "Skeleton Body blue",
+        "ItemID": 3300300
+    },
+    {
+        "m_name": "Simple Garb, Beige",
+        "ItemID": 3000003
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300103
+    },
+    {
+        "m_name": "Scavenger Armor",
+        "ItemID": 3000030
+    },
+    {
+        "m_name": "Light Petrified Wood Armor",
+        "ItemID": 3000050
+    },
+    {
+        "m_name": "Green Copal Helm",
+        "ItemID": 3000311
+    },
+    {
+        "m_name": "Wolf Mage Helmet",
+        "ItemID": 3100211
+    },
+    {
+        "m_name": "Bright Festive Nobleman Boots",
+        "ItemID": 3000116
+    },
+    {
+        "m_name": "Runic Armor",
+        "ItemID": 3100120
+    },
+    {
+        "m_name": "Cauldron Helm",
+        "ItemID": 3100050
+    },
+    {
+        "m_name": "Master Desert Tunic",
+        "ItemID": 3000320
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300106
+    },
+    {
+        "m_name": "Hound Festive Mask",
+        "ItemID": 3000103
+    },
+    {
+        "m_name": "Wolf Plate Helm",
+        "ItemID": 3100011
+    },
+    {
+        "m_name": "Scholar Boots",
+        "ItemID": 3000192
+    },
+    {
+        "m_name": "Woven Hat",
+        "ItemID": 3000001
+    },
+    {
+        "m_name": "Ammolite Armor",
+        "ItemID": 3100130
+    },
+    {
+        "m_name": "Kazite Mask A",
+        "ItemID": 3100111
+    },
+    {
+        "m_name": "Scholar's Crown",
+        "ItemID": 3000191
+    },
+    {
+        "m_name": "Kazite Mask B",
+        "ItemID": 3100112
+    },
+    {
+        "m_name": "Shock Helmet",
+        "ItemID": 3100171
+    },
+    {
+        "m_name": "Skeleton Helm",
+        "ItemID": 3200031
+    },
+    {
+        "m_name": "Jade-Lich Mask",
+        "ItemID": 3000041
+    },
+    {
+        "m_name": "Plate Helm",
+        "ItemID": 3100004
+    },
+    {
+        "m_name": "Sandals",
+        "ItemID": 3000174
+    },
+    {
+        "m_name": "Mixed Monster Armor",
+        "ItemID": 3100410
+    },
+    {
+        "m_name": "White Kintsugi Helm",
+        "ItemID": 3100201
+    },
+    {
+        "m_name": "Trader's Shoes",
+        "ItemID": 3000002
+    },
+    {
+        "m_name": "Skeleton blue Helm",
+        "ItemID": 3300301
+    },
+    {
+        "m_name": "Adventurer's Boots",
+        "ItemID": 3000022
+    },
+    {
+        "m_name": "Wolf Medic Armor",
+        "ItemID": 3100220
+    },
+    {
+        "m_name": "Simple Garb, Gray",
+        "ItemID": 3000006
+    },
+    {
+        "m_name": "Empty Helm",
+        "ItemID": 3200001
+    },
+    {
+        "m_name": "Candle Plate Helm",
+        "ItemID": 3100041
+    },
+    {
+        "m_name": "Go'gO",
+        "ItemID": 3900004
+    },
+    {
+        "m_name": "Barrier Armor Helm_Legacy",
+        "ItemID": 3100446
+    },
+    {
+        "m_name": "Quartz Boots",
+        "ItemID": 3100402
+    },
+    {
+        "m_name": "Green Copal Boots",
+        "ItemID": 3000312
+    },
+    {
+        "m_name": "Squire Boots",
+        "ItemID": 3100152
+    },
+    {
+        "m_name": "Silver Helmet",
+        "ItemID": 3100101
+    },
+    {
+        "m_name": "White Priest Mitre",
+        "ItemID": 3000061
+    },
+    {
+        "m_name": "Kazite Light Armor",
+        "ItemID": 3100240
+    },
+    {
+        "m_name": "Gray Beggar Attire",
+        "ItemID": 3000131
+    },
+    {
+        "m_name": "Wolf Medic Boots",
+        "ItemID": 3100222
+    },
+    {
+        "m_name": "Summoned Ghost Armor",
+        "ItemID": 3200040
+    },
+    {
+        "m_name": "Evangeline Armor",
+        "ItemID": 3300230
+    },
+    {
+        "m_name": "Gold Lich Boots",
+        "ItemID": 3000212
+    },
+    {
+        "m_name": "Shock Boots",
+        "ItemID": 3100172
+    },
+    {
+        "m_name": "Squire Headband",
+        "ItemID": 3100151
+    },
+    {
+        "m_name": "Caged Armor",
+        "ItemID": 3100270
+    },
+    {
+        "m_name": "Barrier Armor Boot",
+        "ItemID": 3100442
+    },
+    {
+        "m_name": "Calixa Armor",
+        "ItemID": 3300130
+    },
+    {
+        "m_name": "Black Pearlbird Mask",
+        "ItemID": 3000251
+    },
+    {
+        "m_name": "Master Trader Hat",
+        "ItemID": 3000231
+    },
+    {
+        "m_name": "Black Fur Helm",
+        "ItemID": 3000331
+    },
+    {
+        "m_name": "Petrified Wood Boots",
+        "ItemID": 3100022
+    },
+    {
+        "m_name": "Black Sallet",
+        "ItemID": 3100094
+    },
+    {
+        "m_name": "Yellow Copal Helm",
+        "ItemID": 3000161
+    },
+    {
+        "m_name": "Blue Beggar Hood",
+        "ItemID": 3000135
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300110
+    },
+    {
+        "m_name": "Pearl Bird Mask",
+        "ItemID": 3000250
+    },
+    {
+        "m_name": "Bright Festive Rich Hat",
+        "ItemID": 3000122
+    },
+    {
+        "m_name": "Horror Helmet",
+        "ItemID": 3100231
+    },
+    {
+        "m_name": "Makeshift Leather Boots",
+        "ItemID": 3000282
+    },
+    {
+        "m_name": "White Novice Robes",
+        "ItemID": 3000070
+    },
+    {
+        "m_name": "GorkKrog!",
+        "ItemID": 3900001
+    },
+    {
+        "m_name": "Pilgrim Boots",
+        "ItemID": 3100162
+    },
+    {
+        "m_name": "Light Petrified Wood Boots",
+        "ItemID": 3000052
+    },
+    {
+        "m_name": "Desert Tunic",
+        "ItemID": 3000200
+    },
+    {
+        "m_name": "Chitin Desert Tunic",
+        "ItemID": 3000201
+    },
+    {
+        "m_name": "Scarab Festive Mask",
+        "ItemID": 3000101
+    },
+    {
+        "m_name": "Bright Festive Rich Attire",
+        "ItemID": 3000120
+    },
+    {
+        "m_name": "Ash Armor",
+        "ItemID": 3000220
+    },
+    {
+        "m_name": "Pale Light Clothes",
+        "ItemID": 3000172
+    },
+    {
+        "m_name": "Runic Helmet",
+        "ItemID": 3100121
+    },
+    {
+        "m_name": "Summoned Ghost Armor",
+        "ItemID": 3200044
+    },
+    {
+        "m_name": "Crimson Armor",
+        "ItemID": 3100480
+    },
+    {
+        "m_name": "Quartz Helm",
+        "ItemID": 3100401
+    },
+    {
+        "m_name": "Tenebrous Helm",
+        "ItemID": 3000141
+    },
+    {
+        "m_name": "Gold Lich Armor",
+        "ItemID": 3000210
+    },
+    {
+        "m_name": "Pearlescent Mail",
+        "ItemID": 3000150
+    },
+    {
+        "m_name": "Investigator Hat",
+        "ItemID": 3000194
+    },
+    {
+        "m_name": "RingMail Armor Boot",
+        "ItemID": 3100452
+    },
+    {
+        "m_name": "Padded Armor",
+        "ItemID": 3000010
+    },
+    {
+        "m_name": "Jade-Lich Boots",
+        "ItemID": 3000043
+    },
+    {
+        "m_name": "Ammolite Helmet",
+        "ItemID": 3100131
+    },
+    {
+        "m_name": "Kazite Armor",
+        "ItemID": 3100110
+    },
+    {
+        "m_name": "Gold Lich Monster Helm",
+        "ItemID": 3200011
+    },
+    {
+        "m_name": "Green Copal Armor",
+        "ItemID": 3000310
+    },
+    {
+        "m_name": "Half-Plate Boots",
+        "ItemID": 3100008
+    },
+    {
+        "m_name": "Simple Garb, Dark Red",
+        "ItemID": 3000007
+    },
+    {
+        "m_name": "Rissa Armor",
+        "ItemID": 3300120
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300100
+    },
+    {
+        "m_name": "Simple Garb, Green",
+        "ItemID": 3000008
+    },
+    {
+        "m_name": "Blue Sand Boots",
+        "ItemID": 3100082
+    },
+    {
+        "m_name": "Investigator Attire",
+        "ItemID": 3000193
+    },
+    {
+        "m_name": "White Arcane Hood",
+        "ItemID": 3000341
+    },
+    {
+        "m_name": "Caldera Noble Armor",
+        "ItemID": 3100430
+    },
+    {
+        "m_name": "Krypteia Boots",
+        "ItemID": 3100472
+    },
+    {
+        "m_name": "Pale Worker's Hood",
+        "ItemID": 3000087
+    },
+    {
+        "m_name": "Purple Festive Hat",
+        "ItemID": 3000093
+    },
+    {
+        "m_name": "Black Scavenger Armor",
+        "ItemID": 3000035
+    },
+    {
+        "m_name": "Elite Black Plate Helmet",
+        "ItemID": 3100181
+    },
+    {
+        "m_name": "Elite Plate Armor",
+        "ItemID": 3100000
+    },
+    {
+        "m_name": "Green Worker Attire",
+        "ItemID": 3000082
+    },
+    {
+        "m_name": "Black Fur Boots",
+        "ItemID": 3000332
+    },
+    {
+        "m_name": "RingMail Armor Helm",
+        "ItemID": 3100451
+    },
+    {
+        "m_name": "IronMask Boots",
+        "ItemID": 3100490
+    },
+    {
+        "m_name": "Wolf Plate Boots",
+        "ItemID": 3100013
+    },
+    {
+        "m_name": "Makeshift Leather Hat",
+        "ItemID": 3000281
+    },
+    {
+        "m_name": "Horror Boots",
+        "ItemID": 3100232
+    },
+    {
+        "m_name": "Master Kazite Mask",
+        "ItemID": 3100191
+    },
+    {
+        "m_name": "Beard",
+        "ItemID": 3200020
+    },
+    {
+        "m_name": "Empty Armor",
+        "ItemID": 3200000
+    },
+    {
+        "m_name": "Kintsugi Armor",
+        "ItemID": 3100070
+    },
+    {
+        "m_name": "Blue Light Clothes",
+        "ItemID": 3000170
+    },
+    {
+        "m_name": "Zagis's Iron Armor",
+        "ItemID": 3100031
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300109
+    },
+    {
+        "m_name": "Yellow Copal Boots",
+        "ItemID": 3000162
+    },
+    {
+        "m_name": "Half-Plate Helm",
+        "ItemID": 3100007
+    },
+    {
+        "m_name": "Tsar Helmet",
+        "ItemID": 3100141
+    },
+    {
+        "m_name": "Tenebrous Armor",
+        "ItemID": 3000140
+    },
+    {
+        "m_name": "Palladium Boots",
+        "ItemID": 3100062
+    },
+    {
+        "m_name": "Brown Beggar Hood",
+        "ItemID": 3000133
+    },
+    {
+        "m_name": "Simple Garb, Striped",
+        "ItemID": 3000009
+    },
+    {
+        "m_name": "Dark Festive Nobleman Attire",
+        "ItemID": 3000111
+    },
+    {
+        "m_name": "Ergagr'Uk!",
+        "ItemID": 3900000
+    },
+    {
+        "m_name": "MilitiaArmor_Legacy",
+        "ItemID": 3100465
+    },
+    {
+        "m_name": "Black Plate Boots",
+        "ItemID": 3100095
+    },
+    {
+        "m_name": "Golden Kazite Light Armor No Coat",
+        "ItemID": 3100247
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300105
+    },
+    {
+        "m_name": "Brown Worker Boots",
+        "ItemID": 3000083
+    },
+    {
+        "m_name": "Virgin Helm",
+        "ItemID": 3100261
+    },
+    {
+        "m_name": "Virgin Boots",
+        "ItemID": 3100262
+    },
+    {
+        "m_name": "Harmattan Guard Helm",
+        "ItemID": 3100251
+    },
+    {
+        "m_name": "Caldera Noble Armor Helm",
+        "ItemID": 3100431
+    },
+    {
+        "m_name": "Elite Plate Helm",
+        "ItemID": 3100001
+    },
+    {
+        "m_name": "Militia Helmet",
+        "ItemID": 3100461
+    },
+    {
+        "m_name": "Dark Festive Nobleman Hat",
+        "ItemID": 3000114
+    },
+    {
+        "m_name": "Wolf Mage Boots",
+        "ItemID": 3100212
+    },
+    {
+        "m_name": "Dark Festive Nobleman Boots",
+        "ItemID": 3000117
+    },
+    {
+        "m_name": "Olielle Armor",
+        "ItemID": 3300121
+    },
+    {
+        "m_name": "Cage Helmet",
+        "ItemID": 3100271
+    },
+    {
+        "m_name": "Elite Hood",
+        "ItemID": 3000037
+    },
+    {
+        "m_name": "Skeleton Helm with Hat",
+        "ItemID": 3200034
+    },
+    {
+        "m_name": "Ash Pathfinder Armor",
+        "ItemID": 3000224
+    },
+    {
+        "m_name": "Tsar Boots",
+        "ItemID": 3100142
+    },
+    {
+        "m_name": "Arcane Hood",
+        "ItemID": 3000261
+    },
+    {
+        "m_name": "Red Festive Hat",
+        "ItemID": 3000092
+    },
+    {
+        "m_name": "Jade Acolyte Robes",
+        "ItemID": 3000044
+    },
+    {
+        "m_name": "Empty Boots",
+        "ItemID": 3200002
+    },
+    {
+        "m_name": "Scavenger Mask",
+        "ItemID": 3000031
+    },
+    {
+        "m_name": "Militia Boots_Legacy",
+        "ItemID": 3100467
+    },
+    {
+        "m_name": "Black Dancer's Clothes",
+        "ItemID": 3000181
+    },
+    {
+        "m_name": "Red Light Clothes",
+        "ItemID": 3000171
+    },
+    {
+        "m_name": "Squire Attire",
+        "ItemID": 3100150
+    },
+    {
+        "m_name": "Villager's Hat",
+        "ItemID": 3300108
+    },
+    {
+        "m_name": "Master Kazite Armor",
+        "ItemID": 3100190
+    },
+    {
+        "m_name": "Runic Boots",
+        "ItemID": 3100122
+    },
+    {
+        "m_name": "Wide Black Hat",
+        "ItemID": 3000301
+    },
+    {
+        "m_name": "Wolf Plate Armor",
+        "ItemID": 3100010
+    },
+    {
+        "m_name": "White Priest Hood",
+        "ItemID": 3000063
+    },
+    {
+        "m_name": "White Priest Boots",
+        "ItemID": 3000062
+    },
+    {
+        "m_name": "Red Festive Attire",
+        "ItemID": 3000090
+    },
+    {
+        "m_name": "Adventurer's Helm",
+        "ItemID": 3000021
+    },
+    {
+        "m_name": "Gargargar!",
+        "ItemID": 3900002
+    },
+    {
+        "m_name": "Deer Festive Mask",
+        "ItemID": 3000100
+    },
+    {
+        "m_name": "Elite Black Plate Armor",
+        "ItemID": 3100180
+    },
+    {
+        "m_name": "Kazite Light Armor No Coat",
+        "ItemID": 3100246
+    },
+    {
+        "m_name": "Zagis's Iron Mask",
+        "ItemID": 3100030
+    },
+    {
+        "m_name": "Black Scavenger Hat",
+        "ItemID": 3000036
+    },
+    {
+        "m_name": "Scholar Attire",
+        "ItemID": 3000190
+    },
+    {
+        "m_name": "Pilgrim Helmet",
+        "ItemID": 3100161
+    },
+    {
+        "m_name": "Bloody Dress Head",
+        "ItemID": 3200051
+    },
+    {
+        "m_name": "Mixed Monster Helm",
+        "ItemID": 3100411
+    },
+    {
+        "m_name": "White Kintsugi Boots",
+        "ItemID": 3100202
+    },
+    {
+        "m_name": "Barrier Armor",
+        "ItemID": 3100440
+    },
+    {
+        "m_name": "Black Scavenger Scarf",
+        "ItemID": 3000033
+    },
+    {
+        "m_name": "Elite Worker Armor Helm",
+        "ItemID": 3100421
+    },
+    {
+        "m_name": "Crimson Plate Mask",
+        "ItemID": 3100091
+    },
+    {
+        "m_name": "Jade Acolyte Boots",
+        "ItemID": 3000046
+    },
+    {
+        "m_name": "Rust Lich Helm",
+        "ItemID": 3000361
+    },
+    {
+        "m_name": "Trader's Garb",
+        "ItemID": 3000000
+    },
+    {
+        "m_name": "Cage Boots",
+        "ItemID": 3100272
+    },
+    {
+        "m_name": "Scaled Leather Attire",
+        "ItemID": 3000290
+    },
+    {
+        "m_name": "Blue Beggar Attire",
+        "ItemID": 3000132
+    },
+    {
+        "m_name": "MilitiaArmor",
+        "ItemID": 3100460
+    },
+    {
+        "m_name": "Bright Festive Nobleman Hat",
+        "ItemID": 3000113
+    },
+    {
+        "m_name": "Kazite Mask C",
+        "ItemID": 3100113
+    },
+    {
+        "m_name": "Red Clansage",
+        "ItemID": 3000350
+    },
+    {
+        "m_name": "Harmattan Guard",
+        "ItemID": 3100250
+    },
+    {
+        "m_name": "Gar'Ga'Nak",
+        "ItemID": 3900005
+    },
+    {
+        "m_name": "Red Wide Hat",
+        "ItemID": 3000302
+    },
+    {
+        "m_name": "Adventurer's Armor",
+        "ItemID": 3000020
+    },
+    {
+        "m_name": "Bloody Dress",
+        "ItemID": 3200050
+    },
+    {
+        "m_name": "Ammolite Boots",
+        "ItemID": 3100132
+    },
+    {
+        "m_name": "Entomber Boots",
+        "ItemID": 3000118
+    },
+    {
+        "m_name": "Palladium Helm",
+        "ItemID": 3100061
+    },
+    {
+        "m_name": "Gold Lich Monster Armor",
+        "ItemID": 3200010
+    },
+    {
+        "m_name": "Wolf Medic Helmet",
+        "ItemID": 3100221
+    },
+    {
+        "m_name": "Kazite Light Helmet",
+        "ItemID": 3100241
+    },
+    {
+        "m_name": "Gold Lich Monster Armor Unique",
+        "ItemID": 3200012
+    },
+    {
+        "m_name": "Barrier Armor Boot_Legacy",
+        "ItemID": 3100447
+    },
+    {
+        "m_name": "Scaled Leather Hat",
+        "ItemID": 3000291
+    },
+    {
+        "m_name": "Militia Helmet_Legacy",
+        "ItemID": 3100466
+    },
+    {
+        "m_name": "Elite Desert Tunic",
+        "ItemID": 3000202
+    },
+    {
+        "m_name": "Elite Plate Boots Blue",
+        "ItemID": 3300341
+    },
+    {
+        "m_name": "Wide Blue Hat",
+        "ItemID": 3000300
+    },
+    {
+        "m_name": "Master Desert Veil",
+        "ItemID": 3000321
+    },
+    {
+        "m_name": "Kintsugi Helm",
+        "ItemID": 3100071
+    },
+    {
+        "m_name": "Wolf Plate Fullhelm",
+        "ItemID": 3100012
+    },
+    {
+        "m_name": "Gold Lich Mask",
+        "ItemID": 3000211
+    },
+    {
+        "m_name": "Caldera Elite Worker Armor Boot",
+        "ItemID": 3100422
+    },
+    {
+        "m_name": "Padded Boots",
+        "ItemID": 3000012
+    },
+    {
+        "m_name": "Light Petrified Wood Helm",
+        "ItemID": 3000051
+    },
+    {
+        "m_name": "Padded Helm",
+        "ItemID": 3000011
+    },
+    {
+        "m_name": "Simple Shoes",
+        "ItemID": 3000004
+    },
+    {
+        "m_name": "Dark Worker Attire",
+        "ItemID": 3000080
+    },
+    {
+        "m_name": "NewGhostOneHandedSword",
+        "ItemID": 2400281
+    },
+    {
+        "m_name": "Forged Glass Chakram",
+        "ItemID": 5110105
+    },
+    {
+        "m_name": "NewGhostTwoHandedMace",
+        "ItemID": 2400280
+    },
+    {
+        "m_name": "Marble Spear",
+        "ItemID": 2130050
+    },
+    {
+        "m_name": "Ghost Reaper",
+        "ItemID": 2140130
+    },
+    {
+        "m_name": "Militia Sword_Legacy",
+        "ItemID": 2000305
+    },
+    {
+        "m_name": "Myconic Shield",
+        "ItemID": 2300150
+    },
+    {
+        "m_name": "Militia Greataxe_Legacy",
+        "ItemID": 2110255
+    },
+    {
+        "m_name": "Obsidian Dagger",
+        "ItemID": 5110013
+    },
+    {
+        "m_name": "Immaculate-Dream Halberd",
+        "ItemID": 2140120
+    },
+    {
+        "m_name": "ObsidianElementalRock",
+        "ItemID": 2400152
+    },
+    {
+        "m_name": "DamasceneChakram_Legacy",
+        "ItemID": 5110109
+    },
+    {
+        "m_name": "Ruined Halberd",
+        "ItemID": 2150170
+    },
+    {
+        "m_name": "MilitiaChakram_Legacy",
+        "ItemID": 5110107
+    },
+    {
+        "m_name": "Militia Mace",
+        "ItemID": 2020310
+    },
+    {
+        "m_name": "Werlig",
+        "ItemID": 2130021
+    },
+    {
+        "m_name": "Scarred Dagger",
+        "ItemID": 5110340
+    },
+    {
+        "m_name": "Vampiric Axe",
+        "ItemID": 2010160
+    },
+    {
+        "m_name": "Palladium Halberd",
+        "ItemID": 2140100
+    },
+    {
+        "m_name": "Hailfrost Greatmace",
+        "ItemID": 2120240
+    },
+    {
+        "m_name": "Virgin Greatsword",
+        "ItemID": 2100200
+    },
+    {
+        "m_name": "Iron Greathammer",
+        "ItemID": 2120080
+    },
+    {
+        "m_name": "Round Shield",
+        "ItemID": 2300000
+    },
+    {
+        "m_name": "Vampire Chakram",
+        "ItemID": 5110093
+    },
+    {
+        "m_name": "Chalcedony Sword",
+        "ItemID": 2000270
+    },
+    {
+        "m_name": "Fishing Harpoon",
+        "ItemID": 2130130
+    },
+    {
+        "m_name": "Militia Claymore_Legacy",
+        "ItemID": 2100295
+    },
+    {
+        "m_name": "Virgin Mace",
+        "ItemID": 2020210
+    },
+    {
+        "m_name": "Militia Chakram",
+        "ItemID": 5110106
+    },
+    {
+        "m_name": "Mantis Claws",
+        "ItemID": 2400110
+    },
+    {
+        "m_name": "Troglodyte Trident",
+        "ItemID": 2130080
+    },
+    {
+        "m_name": "Virgin Axe",
+        "ItemID": 2010170
+    },
+    {
+        "m_name": "GolemBrokenRapier",
+        "ItemID": 2400142
+    },
+    {
+        "m_name": "Old Legion Gladius",
+        "ItemID": 2000090
+    },
+    {
+        "m_name": "Astral Shield",
+        "ItemID": 2300290
+    },
+    {
+        "m_name": "ImmaculateBlade",
+        "ItemID": 2400253
+    },
+    {
+        "m_name": "Militia Halberd",
+        "ItemID": 2150130
+    },
+    {
+        "m_name": "AncientDwellerDarkHook",
+        "ItemID": 2400501
+    },
+    {
+        "m_name": "Calygrey Staff",
+        "ItemID": 2150160
+    },
+    {
+        "m_name": "Savage Axe",
+        "ItemID": 2010041
+    },
+    {
+        "m_name": "Militia Axe",
+        "ItemID": 2010270
+    },
+    {
+        "m_name": "Ainstein's Rusted Claymore",
+        "ItemID": 2100130
+    },
+    {
+        "m_name": "Militia Axe Josef",
+        "ItemID": 2010271
+    },
+    {
+        "m_name": "Wolf Dagger",
+        "ItemID": 5110009
+    },
+    {
+        "m_name": "Gep's Longblade",
+        "ItemID": 2100305
+    },
+    {
+        "m_name": "Manticore Greatmace",
+        "ItemID": 2120090
+    },
+    {
+        "m_name": "NewGhostRedLadyOneHandedSword",
+        "ItemID": 2400285
+    },
+    {
+        "m_name": "Industrial Sword",
+        "ItemID": 2000290
+    },
+    {
+        "m_name": "Obsidian Sword",
+        "ItemID": 2000260
+    },
+    {
+        "m_name": "Thorny Claymore",
+        "ItemID": 2100070
+    },
+    {
+        "m_name": "Test weapon of Dooooom",
+        "ItemID": 504
+    },
+    {
+        "m_name": "Galvanic Halberd",
+        "ItemID": 2140150
+    },
+    {
+        "m_name": "Palladium Shield",
+        "ItemID": 2300170
+    },
+    {
+        "m_name": "Obsidian Mace_Legacy",
+        "ItemID": 2020115
+    },
+    {
+        "m_name": "Dragon Shield",
+        "ItemID": 2300120
+    },
+    {
+        "m_name": "Obsidian Shield",
+        "ItemID": 2300310
+    },
+    {
+        "m_name": "Beetle Horn",
+        "ItemID": 2400040
+    },
+    {
+        "m_name": "Fang Axe",
+        "ItemID": 2010040
+    },
+    {
+        "m_name": "Galvanic Axe",
+        "ItemID": 2010150
+    },
+    {
+        "m_name": "Galvanic Great Axe",
+        "ItemID": 2110140
+    },
+    {
+        "m_name": "Spore Halberd",
+        "ItemID": 2140051
+    },
+    {
+        "m_name": "Obsidian Halberd",
+        "ItemID": 2150090
+    },
+    {
+        "m_name": "Damascene Shield",
+        "ItemID": 2300280
+    },
+    {
+        "m_name": "BladeDancerSword",
+        "ItemID": 2400230
+    },
+    {
+        "m_name": "Maelstrom Blade",
+        "ItemID": 2000170
+    },
+    {
+        "m_name": "Chalcedony Greatmace",
+        "ItemID": 2120230
+    },
+    {
+        "m_name": "Golem Rapier Rust",
+        "ItemID": 2400004
+    },
+    {
+        "m_name": "Cracked Red Moon",
+        "ItemID": 2150180
+    },
+    {
+        "m_name": "Mantis Greatpick",
+        "ItemID": 2120040
+    },
+    {
+        "m_name": "Griigmerk Karamerk",
+        "ItemID": 2130160
+    },
+    {
+        "m_name": "HyppoJaw",
+        "ItemID": 2400420
+    },
+    {
+        "m_name": "Astral Staff",
+        "ItemID": 2150140
+    },
+    {
+        "m_name": "Steko Teethz",
+        "ItemID": 2400020
+    },
+    {
+        "m_name": "Damascene Axe",
+        "ItemID": 2010200
+    },
+    {
+        "m_name": "Elemental Chakram",
+        "ItemID": 5110060
+    },
+    {
+        "m_name": "Assassin Claymore",
+        "ItemID": 2100110
+    },
+    {
+        "m_name": "NewGhostOneHandedSwordWill",
+        "ItemID": 2400286
+    },
+    {
+        "m_name": "EliteCrescentShark Jaw",
+        "ItemID": 2400221
+    },
+    {
+        "m_name": "Royal Great-Khopesh",
+        "ItemID": 2100150
+    },
+    {
+        "m_name": "ObsidianElementalRock",
+        "ItemID": 2400150
+    },
+    {
+        "m_name": "Virgin Shield",
+        "ItemID": 2300250
+    },
+    {
+        "m_name": "Iron Halberd",
+        "ItemID": 2140000
+    },
+    {
+        "m_name": "Vampiric Great Mace",
+        "ItemID": 2120160
+    },
+    {
+        "m_name": "AncientDwellerHookSpeak",
+        "ItemID": 2400502
+    },
+    {
+        "m_name": "Purple Fang Shield",
+        "ItemID": 2300210
+    },
+    {
+        "m_name": "Felling Axe",
+        "ItemID": 2110040
+    },
+    {
+        "m_name": "Virgin Greatsword",
+        "ItemID": 2100190
+    },
+    {
+        "m_name": "Starchild",
+        "ItemID": 2100100
+    },
+    {
+        "m_name": "Sunfall",
+        "ItemID": 2010070
+    },
+    {
+        "m_name": "Marble Greataxe",
+        "ItemID": 2110020
+    },
+    {
+        "m_name": "Hailfrost Dagger",
+        "ItemID": 5110015
+    },
+    {
+        "m_name": "Damascene Claymore_Legacy",
+        "ItemID": 2100225
+    },
+    {
+        "m_name": "Sandrose",
+        "ItemID": 2010285
+    },
+    {
+        "m_name": "SpecterRangeCannonBash",
+        "ItemID": 2400170
+    },
+    {
+        "m_name": "Withering Pole Mace",
+        "ItemID": 2130084
+    },
+    {
+        "m_name": "Chalcedony Greataxe",
+        "ItemID": 2110220
+    },
+    {
+        "m_name": "Mantis Claws",
+        "ItemID": 2400090
+    },
+    {
+        "m_name": "Wolf Axe",
+        "ItemID": 2010190
+    },
+    {
+        "m_name": "Kazite Shield",
+        "ItemID": 2300260
+    },
+    {
+        "m_name": "Galvanic Golem Rapier Rust",
+        "ItemID": 2400141
+    },
+    {
+        "m_name": "Hailfrost Halberd",
+        "ItemID": 2150110
+    },
+    {
+        "m_name": "Chalcedony Axe",
+        "ItemID": 2010240
+    },
+    {
+        "m_name": "Savage Greatsword",
+        "ItemID": 2100021
+    },
+    {
+        "m_name": "Gold Lich Sword",
+        "ItemID": 2000080
+    },
+    {
+        "m_name": "Palladium Sword",
+        "ItemID": 2000140
+    },
+    {
+        "m_name": "Etheral Axe",
+        "ItemID": 2010002
+    },
+    {
+        "m_name": "Tuanosaur Claws ice",
+        "ItemID": 2400005
+    },
+    {
+        "m_name": "Shield of Will O Wisp",
+        "ItemID": 2300600
+    },
+    {
+        "m_name": "Great Runic Blade",
+        "ItemID": 2100999
+    },
+    {
+        "m_name": "Giant Crossbow",
+        "ItemID": 2400510
+    },
+    {
+        "m_name": "Pitchfork",
+        "ItemID": 2130040
+    },
+    {
+        "m_name": "Walking Hive Virulent Stinger",
+        "ItemID": 2400161
+    },
+    {
+        "m_name": "Golem Rapier",
+        "ItemID": 2100060
+    },
+    {
+        "m_name": "Walking Hive Stinger",
+        "ItemID": 2400160
+    },
+    {
+        "m_name": "Purple Glowy Claymore",
+        "ItemID": 2100081
+    },
+    {
+        "m_name": "Thermal Claymore",
+        "ItemID": 2100160
+    },
+    {
+        "m_name": "Chalcedony Chakram",
+        "ItemID": 5110102
+    },
+    {
+        "m_name": "Chalcedony Claymore",
+        "ItemID": 2100260
+    },
+    {
+        "m_name": "Galvanic Shield",
+        "ItemID": 2300230
+    },
+    {
+        "m_name": "Savage Sword",
+        "ItemID": 2000051
+    },
+    {
+        "m_name": "Blacksmith's Hammer",
+        "ItemID": 2020090
+    },
+    {
+        "m_name": "Beast Golem Halberd",
+        "ItemID": 2140080
+    },
+    {
+        "m_name": "Slumbering Shield",
+        "ItemID": 2300360
+    },
+    {
+        "m_name": "Damascene Chakram",
+        "ItemID": 5110098
+    },
+    {
+        "m_name": "Horror Chakram",
+        "ItemID": 5110091
+    },
+    {
+        "m_name": "ImmaculateBlade",
+        "ItemID": 2400252
+    },
+    {
+        "m_name": "Obsidian Spear",
+        "ItemID": 2130260
+    },
+    {
+        "m_name": "Angler Shield",
+        "ItemID": 2300365
+    },
+    {
+        "m_name": "Astral Axe",
+        "ItemID": 2010210
+    },
+    {
+        "m_name": "Iron Axe",
+        "ItemID": 2010000
+    },
+    {
+        "m_name": "Brutal Greatmace",
+        "ItemID": 2120000
+    },
+    {
+        "m_name": "Damascene Greataxe_Legacy",
+        "ItemID": 2110185
+    },
+    {
+        "m_name": "WolfgangRunicSword",
+        "ItemID": 2400540
+    },
+    {
+        "m_name": "Staff of Mageed",
+        "ItemID": 2150000
+    },
+    {
+        "m_name": "Krypteia Palladium Mace",
+        "ItemID": 2400531
+    },
+    {
+        "m_name": "Hailfrost Sword",
+        "ItemID": 2000280
+    },
+    {
+        "m_name": "Kelvin's Greataxe",
+        "ItemID": 2110110
+    },
+    {
+        "m_name": "Phytosaur Spear",
+        "ItemID": 2130120
+    },
+    {
+        "m_name": "Red Lady's Dagger",
+        "ItemID": 5110002
+    },
+    {
+        "m_name": "SupremeShellFist",
+        "ItemID": 2400330
+    },
+    {
+        "m_name": "Grind",
+        "ItemID": 2110265
+    },
+    {
+        "m_name": "Golden Plank Shield",
+        "ItemID": 2300200
+    },
+    {
+        "m_name": "Industrial Greatmace",
+        "ItemID": 2120250
+    },
+    {
+        "m_name": "Savage Greatclub",
+        "ItemID": 2120021
+    },
+    {
+        "m_name": "Hailfrost Spear",
+        "ItemID": 2130280
+    },
+    {
+        "m_name": "Ornate Chakram",
+        "ItemID": 5110040
+    },
+    {
+        "m_name": "Hive Lord Fist",
+        "ItemID": 2400070
+    },
+    {
+        "m_name": "Crescent Scythe",
+        "ItemID": 2140070
+    },
+    {
+        "m_name": "Militia Mace_Legacy",
+        "ItemID": 2020315
+    },
+    {
+        "m_name": "Wolf Greataxe",
+        "ItemID": 2110170
+    },
+    {
+        "m_name": "Gold Worn Guisarme",
+        "ItemID": 2130011
+    },
+    {
+        "m_name": "Metal Shield",
+        "ItemID": 2300140
+    },
+    {
+        "m_name": "Iron Mace ",
+        "ItemID": 2020010
+    },
+    {
+        "m_name": "Old Legion Shield",
+        "ItemID": 2300070
+    },
+    {
+        "m_name": "TitanGolemHammer",
+        "ItemID": 2400370
+    },
+    {
+        "m_name": "Chalcedony Mace",
+        "ItemID": 2020280
+    },
+    {
+        "m_name": "Kazite Mace",
+        "ItemID": 2020220
+    },
+    {
+        "m_name": "Galvanic Golem Rapier",
+        "ItemID": 2400140
+    },
+    {
+        "m_name": "Elite Queen Trog Mana Staff",
+        "ItemID": 2150042
+    },
+    {
+        "m_name": "Mage’s Poking Stick",
+        "ItemID": 2150001
+    },
+    {
+        "m_name": "Vampiric Mace",
+        "ItemID": 2020190
+    },
+    {
+        "m_name": "Kazite Mace Boss",
+        "ItemID": 2020221
+    },
+    {
+        "m_name": "Calygrey Mace",
+        "ItemID": 2020320
+    },
+    {
+        "m_name": "Ivory Master's Staff",
+        "ItemID": 2150051
+    },
+    {
+        "m_name": "Brutal Axe",
+        "ItemID": 2010030
+    },
+    {
+        "m_name": "BeastGolemBeak",
+        "ItemID": 2400240
+    },
+    {
+        "m_name": "Crescent Greataxe",
+        "ItemID": 2110050
+    },
+    {
+        "m_name": "Steko Runic Beast Teethz",
+        "ItemID": 2400021
+    },
+    {
+        "m_name": "Rotwood Staff",
+        "ItemID": 2150031
+    },
+    {
+        "m_name": "Old Legion Spear",
+        "ItemID": 2130070
+    },
+    {
+        "m_name": "Savage Halberd",
+        "ItemID": 2140021
+    },
+    {
+        "m_name": "Astral Spear",
+        "ItemID": 2130240
+    },
+    {
+        "m_name": "ImmaculateBlade",
+        "ItemID": 2400251
+    },
+    {
+        "m_name": "Astral Halberd",
+        "ItemID": 2150070
+    },
+    {
+        "m_name": "WendigoAccursedClaw",
+        "ItemID": 2400101
+    },
+    {
+        "m_name": "Iron Spear",
+        "ItemID": 2130110
+    },
+    {
+        "m_name": "PearlBirdBeak",
+        "ItemID": 2400260
+    },
+    {
+        "m_name": "Demon Shield",
+        "ItemID": 2300030
+    },
+    {
+        "m_name": "Tsar Claymore",
+        "ItemID": 2100140
+    },
+    {
+        "m_name": "Marble Morningstar",
+        "ItemID": 2020040
+    },
+    {
+        "m_name": "Obsidian Sword_Legacy",
+        "ItemID": 2000265
+    },
+    {
+        "m_name": "Astral Sword",
+        "ItemID": 2000240
+    },
+    {
+        "m_name": "Militia Spear",
+        "ItemID": 2130300
+    },
+    {
+        "m_name": "Primitive Club",
+        "ItemID": 2020130
+    },
+    {
+        "m_name": "Damascene Halberd_Legacy",
+        "ItemID": 2150065
+    },
+    {
+        "m_name": "EliteBeastGolemBeak",
+        "ItemID": 2400241
+    },
+    {
+        "m_name": "GrotesqueGreater",
+        "ItemID": 2400321
+    },
+    {
+        "m_name": "Tower Shield",
+        "ItemID": 2300040
+    },
+    {
+        "m_name": "Gold Mining Pick",
+        "ItemID": 2120051
+    },
+    {
+        "m_name": "Butcher Cleaver",
+        "ItemID": 2010140
+    },
+    {
+        "m_name": "Tsar Axe",
+        "ItemID": 2010120
+    },
+    {
+        "m_name": "Obsidian Spear_Legacy",
+        "ItemID": 2130265
+    },
+    {
+        "m_name": "Galvanic Dagger",
+        "ItemID": 5110008
+    },
+    {
+        "m_name": "Skycrown",
+        "ItemID": 2020140
+    },
+    {
+        "m_name": "Tsar Spear",
+        "ItemID": 2130150
+    },
+    {
+        "m_name": "Sealed Mace",
+        "ItemID": 2020330
+    },
+    {
+        "m_name": "Wide Dagger",
+        "ItemID": 5110001
+    },
+    {
+        "m_name": "Mantis Claws",
+        "ItemID": 2400050
+    },
+    {
+        "m_name": "MilitiaDagger_Legacy",
+        "ItemID": 5110018
+    },
+    {
+        "m_name": "Chalcedony Halberd",
+        "ItemID": 2150100
+    },
+    {
+        "m_name": "Forged Glass Greataxe",
+        "ItemID": 2110200
+    },
+    {
+        "m_name": "Torcrab Giant Beak and claw",
+        "ItemID": 2400411
+    },
+    {
+        "m_name": "ChalcedonyShield",
+        "ItemID": 2300320
+    },
+    {
+        "m_name": "Prayer Claymore",
+        "ItemID": 2100000
+    },
+    {
+        "m_name": "Militia Spear_Legacy",
+        "ItemID": 2130305
+    },
+    {
+        "m_name": "Giant Arch Priest Blade Guandao",
+        "ItemID": 2400122
+    },
+    {
+        "m_name": "SpecterMeleeMatriarchBlade",
+        "ItemID": 2400181
+    },
+    {
+        "m_name": "Industrial Chakram",
+        "ItemID": 5110104
+    },
+    {
+        "m_name": "Kazite Axe",
+        "ItemID": 2010180
+    },
+    {
+        "m_name": "ObsidianElementalRedRock",
+        "ItemID": 2400151
+    },
+    {
+        "m_name": "GargoyleWarriorUrn",
+        "ItemID": 2400491
+    },
+    {
+        "m_name": "Obsidian Chakram",
+        "ItemID": 5110101
+    },
+    {
+        "m_name": "Giant Blade Halberd",
+        "ItemID": 2400120
+    },
+    {
+        "m_name": "Forged Glass Sword",
+        "ItemID": 2000250
+    },
+    {
+        "m_name": "Manticore Dagger",
+        "ItemID": 5110004
+    },
+    {
+        "m_name": "BladeDancerSwordLight",
+        "ItemID": 2400231
+    },
+    {
+        "m_name": "Militia Shield",
+        "ItemID": 2300350
+    },
+    {
+        "m_name": "ASsassinBugExecutionerTongue",
+        "ItemID": 2400031
+    },
+    {
+        "m_name": "Pillar Greathammer",
+        "ItemID": 2120070
+    },
+    {
+        "m_name": "Virgin Halberd",
+        "ItemID": 2140160
+    },
+    {
+        "m_name": "Damascene Mace",
+        "ItemID": 2020240
+    },
+    {
+        "m_name": "Industrial Dagger",
+        "ItemID": 5110016
+    },
+    {
+        "m_name": "CrimsonEliteStaff",
+        "ItemID": 2400521
+    },
+    {
+        "m_name": "Mantis Claws",
+        "ItemID": 2400091
+    },
+    {
+        "m_name": "Militia Dagger",
+        "ItemID": 5110017
+    },
+    {
+        "m_name": "Damascene Axe_Legacy",
+        "ItemID": 2010205
+    },
+    {
+        "m_name": "Damascene Greataxe",
+        "ItemID": 2110180
+    },
+    {
+        "m_name": "Experimental Chakram",
+        "ItemID": 5110112
+    },
+    {
+        "m_name": "Astral Chakram",
+        "ItemID": 5110099
+    },
+    {
+        "m_name": "Worldedge",
+        "ItemID": 2110100
+    },
+    {
+        "m_name": "Hailfrost Greataxe",
+        "ItemID": 2110230
+    },
+    {
+        "m_name": "LichGoldStaff",
+        "ItemID": 2400270
+    },
+    {
+        "m_name": "Hailfrost Claymore",
+        "ItemID": 2100270
+    },
+    {
+        "m_name": "Kazite Blade",
+        "ItemID": 2000210
+    },
+    {
+        "m_name": "Gold Greataxe",
+        "ItemID": 2110041
+    },
+    {
+        "m_name": "Marble Halberd",
+        "ItemID": 2140030
+    },
+    {
+        "m_name": "Militia Greatmace_Legacy",
+        "ItemID": 2120265
+    },
+    {
+        "m_name": "skeleton blue Iron Mace ",
+        "ItemID": 2020910
+    },
+    {
+        "m_name": "Hound Teethz",
+        "ItemID": 2400003
+    },
+    {
+        "m_name": "Horror Great Axe",
+        "ItemID": 2110120
+    },
+    {
+        "m_name": "Horror Axe",
+        "ItemID": 2010100
+    },
+    {
+        "m_name": "Gold Lich Shield",
+        "ItemID": 2300100
+    },
+    {
+        "m_name": "Obsidian Greatmace",
+        "ItemID": 2120120
+    },
+    {
+        "m_name": "Summoned Ghost Sword",
+        "ItemID": 2000042
+    },
+    {
+        "m_name": "Militia Axe_Legacy",
+        "ItemID": 2010275
+    },
+    {
+        "m_name": "Virgin Chakram",
+        "ItemID": 5110094
+    },
+    {
+        "m_name": "Brutal Cleaver",
+        "ItemID": 2140010
+    },
+    {
+        "m_name": "Virgin Greataxe",
+        "ItemID": 2110150
+    },
+    {
+        "m_name": "GargoyleUrn",
+        "ItemID": 2400490
+    },
+    {
+        "m_name": "Pain in the Axe",
+        "ItemID": 2010130
+    },
+    {
+        "m_name": "Pyrite Greathammer",
+        "ItemID": 2120060
+    },
+    {
+        "m_name": "Forged Glass Halberd",
+        "ItemID": 2150080
+    },
+    {
+        "m_name": "ImmaculateBlade",
+        "ItemID": 2400250
+    },
+    {
+        "m_name": "Thorny Spear",
+        "ItemID": 2130100
+    },
+    {
+        "m_name": "MyrmClawTongue",
+        "ItemID": 2400440
+    },
+    {
+        "m_name": "Living Wood Axe",
+        "ItemID": 2010020
+    },
+    {
+        "m_name": "Savage Club",
+        "ItemID": 2020051
+    },
+    {
+        "m_name": "Compasswood Staff",
+        "ItemID": 2150030
+    },
+    {
+        "m_name": "Steko Teeth Black",
+        "ItemID": 2400022
+    },
+    {
+        "m_name": "Forged Glass Spear",
+        "ItemID": 2130250
+    },
+    {
+        "m_name": "BeetleFrost Horn",
+        "ItemID": 2400450
+    },
+    {
+        "m_name": "Sinner Claymore",
+        "ItemID": 2100001
+    },
+    {
+        "m_name": "Obsidian Axe",
+        "ItemID": 2010230
+    },
+    {
+        "m_name": "Wolf Sword",
+        "ItemID": 2000030
+    },
+    {
+        "m_name": "Chalcedony Spear",
+        "ItemID": 2130270
+    },
+    {
+        "m_name": "Calygrey Staff Legacy",
+        "ItemID": 2150165
+    },
+    {
+        "m_name": "Forged Glass Claymore",
+        "ItemID": 2100240
+    },
+    {
+        "m_name": "CrescentShark Jaw",
+        "ItemID": 2400220
+    },
+    {
+        "m_name": "Jade-Lich Mace ",
+        "ItemID": 2020030
+    },
+    {
+        "m_name": "Galvanic Chakram",
+        "ItemID": 5110092
+    },
+    {
+        "m_name": "Fang Club",
+        "ItemID": 2020050
+    },
+    {
+        "m_name": "ASsassinBugTongue",
+        "ItemID": 2400030
+    },
+    {
+        "m_name": "DjinBigFist",
+        "ItemID": 2400471
+    },
+    {
+        "m_name": "Ghost Parallel",
+        "ItemID": 2120275
+    },
+    {
+        "m_name": "Forged Glass Shield",
+        "ItemID": 2300300
+    },
+    {
+        "m_name": "Hailfrost Mace",
+        "ItemID": 2020290
+    },
+    {
+        "m_name": "Gold Lich Claymore",
+        "ItemID": 2100050
+    },
+    {
+        "m_name": "Forge Golem Red Hot Beak",
+        "ItemID": 2400201
+    },
+    {
+        "m_name": "Horror Greatsword",
+        "ItemID": 2100170
+    },
+    {
+        "m_name": "Cerulean Sabre",
+        "ItemID": 2000021
+    },
+    {
+        "m_name": "Marble Sword",
+        "ItemID": 2000070
+    },
+    {
+        "m_name": "Forged Glass Dagger",
+        "ItemID": 5110012
+    },
+    {
+        "m_name": "Obsidian Greataxe_Legacy",
+        "ItemID": 2110215
+    },
+    {
+        "m_name": "Gold Harpoon",
+        "ItemID": 2130131
+    },
+    {
+        "m_name": "Palladium Sword",
+        "ItemID": 2000141
+    },
+    {
+        "m_name": "Chalcedony Dagger",
+        "ItemID": 5110014
+    },
+    {
+        "m_name": "Withering Trident",
+        "ItemID": 2130083
+    },
+    {
+        "m_name": "Damascene Mace_Legacy",
+        "ItemID": 2020245
+    },
+    {
+        "m_name": "Red Moon",
+        "ItemID": 2150185
+    },
+    {
+        "m_name": "Gep's Blade",
+        "ItemID": 2000320
+    },
+    {
+        "m_name": "Giant horror",
+        "ItemID": 2400350
+    },
+    {
+        "m_name": "EliteSupremeShellFist",
+        "ItemID": 2400331
+    },
+    {
+        "m_name": "TrogKick",
+        "ItemID": 2400190
+    },
+    {
+        "m_name": "Industrial Halberd",
+        "ItemID": 2150120
+    },
+    {
+        "m_name": "Astral Greataxe",
+        "ItemID": 2110190
+    },
+    {
+        "m_name": "Industrial Mace",
+        "ItemID": 2020300
+    },
+    {
+        "m_name": "Militia Greatmace",
+        "ItemID": 2120260
+    },
+    {
+        "m_name": "Astral Mace",
+        "ItemID": 2020250
+    },
+    {
+        "m_name": "Plank Shield",
+        "ItemID": 2300080
+    },
+    {
+        "m_name": "Lich Gold TwoHanded Spear",
+        "ItemID": 2400290
+    },
+    {
+        "m_name": "Iron Claymore",
+        "ItemID": 2100080
+    },
+    {
+        "m_name": "Savage Trident",
+        "ItemID": 2130022
+    },
+    {
+        "m_name": "Ornate Bone Shield",
+        "ItemID": 2300180
+    },
+    {
+        "m_name": "Gold Quarterstaff",
+        "ItemID": 2130031
+    },
+    {
+        "m_name": "Palladium Axe",
+        "ItemID": 2010110
+    },
+    {
+        "m_name": "Blood Sword",
+        "ItemID": 2000221
+    },
+    {
+        "m_name": "Iron Sword",
+        "ItemID": 2000010
+    },
+    {
+        "m_name": "Lionman Frost Staff",
+        "ItemID": 2400461
+    },
+    {
+        "m_name": "Gold Pitchfork",
+        "ItemID": 2130041
+    },
+    {
+        "m_name": "Hailfrost Chakram",
+        "ItemID": 5110103
+    },
+    {
+        "m_name": "ShellHorrorClaw",
+        "ItemID": 2400130
+    },
+    {
+        "m_name": "Gold Junk Claymore",
+        "ItemID": 2100211
+    },
+    {
+        "m_name": "Damascene Dagger",
+        "ItemID": 5110010
+    },
+    {
+        "m_name": "DamasceneDagger_Legacy",
+        "ItemID": 5110020
+    },
+    {
+        "m_name": "Glowstone Daggers",
+        "ItemID": 5110005
+    },
+    {
+        "m_name": "Marble Greataxe",
+        "ItemID": 2110022
+    },
+    {
+        "m_name": "Great BloodSword",
+        "ItemID": 2100221
+    },
+    {
+        "m_name": "JellyFishStinger",
+        "ItemID": 2400480
+    },
+    {
+        "m_name": "Hailfrost Axe",
+        "ItemID": 2010250
+    },
+    {
+        "m_name": "Vampiric Spear",
+        "ItemID": 2130180
+    },
+    {
+        "m_name": "DamasceneSpear",
+        "ItemID": 2130235
+    },
+    {
+        "m_name": "Desert Khopesh",
+        "ItemID": 2000110
+    },
+    {
+        "m_name": "Militia Halberd_Legacy",
+        "ItemID": 2150135
+    },
+    {
+        "m_name": "Wolf Spear",
+        "ItemID": 2130220
+    },
+    {
+        "m_name": "Galvanic Mace",
+        "ItemID": 2020200
+    },
+    {
+        "m_name": "Virgin Spear",
+        "ItemID": 2130200
+    },
+    {
+        "m_name": "Tsar Greathammer",
+        "ItemID": 2120130
+    },
+    {
+        "m_name": "Kazite Axe Boss",
+        "ItemID": 2010181
+    },
+    {
+        "m_name": "Virgin Sword",
+        "ItemID": 2000200
+    },
+    {
+        "m_name": "Palladium Spear",
+        "ItemID": 2130140
+    },
+    {
+        "m_name": "slugHellShell",
+        "ItemID": 2400550
+    },
+    {
+        "m_name": "Challenger Greathammer",
+        "ItemID": 2120140
+    },
+    {
+        "m_name": "NewGhostRedLadyTwoHandedMace",
+        "ItemID": 2400284
+    },
+    {
+        "m_name": "Vampiric Greatsword",
+        "ItemID": 2100180
+    },
+    {
+        "m_name": "Forge Golem Beak",
+        "ItemID": 2400200
+    },
+    {
+        "m_name": "Damascene Greatmace",
+        "ItemID": 2120200
+    },
+    {
+        "m_name": "Boozu Horn",
+        "ItemID": 2400310
+    },
+    {
+        "m_name": "Militia Shield_Legacy",
+        "ItemID": 2300355
+    },
+    {
+        "m_name": "Kazite Chakram",
+        "ItemID": 5110095
+    },
+    {
+        "m_name": "Machete",
+        "ItemID": 2000060
+    },
+    {
+        "m_name": "Giant Blade Guandao",
+        "ItemID": 2400121
+    },
+    {
+        "m_name": "Vampiric Sword",
+        "ItemID": 2000190
+    },
+    {
+        "m_name": "Annoying Chakram",
+        "ItemID": 5110080
+    },
+    {
+        "m_name": "Blacksmith's Vintage Hammer",
+        "ItemID": 2020091
+    },
+    {
+        "m_name": "Kazite Greataxe",
+        "ItemID": 2110160
+    },
+    {
+        "m_name": "Damascene Shield_Legacy",
+        "ItemID": 2300285
+    },
+    {
+        "m_name": "Militia Sword",
+        "ItemID": 2000300
+    },
+    {
+        "m_name": "Manticore teeth",
+        "ItemID": 2400060
+    },
+    {
+        "m_name": "Marble Greataxe",
+        "ItemID": 2110023
+    },
+    {
+        "m_name": "GargoyleUrnAltered",
+        "ItemID": 2400493
+    },
+    {
+        "m_name": "Industrial Spear",
+        "ItemID": 2130290
+    },
+    {
+        "m_name": "CageArmorFist",
+        "ItemID": 2400400
+    },
+    {
+        "m_name": "Brevine's Palladium Shield",
+        "ItemID": 2300171
+    },
+    {
+        "m_name": "Enchanting TableShield",
+        "ItemID": 2300270
+    },
+    {
+        "m_name": "Mining Pickaxe",
+        "ItemID": 2120050
+    },
+    {
+        "m_name": "Astral Claymore",
+        "ItemID": 2100230
+    },
+    {
+        "m_name": "Gold Machete",
+        "ItemID": 2000061
+    },
+    {
+        "m_name": "MyrmClawTongueElite",
+        "ItemID": 240044
+    },
+    {
+        "m_name": "Militia Claymore",
+        "ItemID": 2100290
+    },
+    {
+        "m_name": "Tsar Sword",
+        "ItemID": 2000160
+    },
+    {
+        "m_name": "CrimsonStaff",
+        "ItemID": 2400520
+    },
+    {
+        "m_name": "Broken Golem Rapier",
+        "ItemID": 2100061
+    },
+    {
+        "m_name": "Tuanosaur Claws",
+        "ItemID": 2400000
+    },
+    {
+        "m_name": "Obsidian Shield_Legacy",
+        "ItemID": 2300315
+    },
+    {
+        "m_name": "Wrought Halberd",
+        "ItemID": 2140060
+    },
+    {
+        "m_name": "Fang Greatsword",
+        "ItemID": 2100020
+    },
+    {
+        "m_name": "Astral Greatmace",
+        "ItemID": 2120210
+    },
+    {
+        "m_name": "Militia Claymore",
+        "ItemID": 2100291
+    },
+    {
+        "m_name": "Golem Rapier",
+        "ItemID": 2400002
+    },
+    {
+        "m_name": "Damascene Claymore",
+        "ItemID": 2100220
+    },
+    {
+        "m_name": "PiplatTeethAndTail",
+        "ItemID": 2400300
+    },
+    {
+        "m_name": "Forge Golem Red Hot Beak",
+        "ItemID": 2400202
+    },
+    {
+        "m_name": "Wolf Claymore",
+        "ItemID": 2100010
+    },
+    {
+        "m_name": "Savage Greataxe",
+        "ItemID": 2110011
+    },
+    {
+        "m_name": "Tuanosaur Greataxe",
+        "ItemID": 2110060
+    },
+    {
+        "m_name": "Tsar Shield",
+        "ItemID": 2300190
+    },
+    {
+        "m_name": "Torcrab Beak and claw",
+        "ItemID": 2400410
+    },
+    {
+        "m_name": "Tsar Chakram",
+        "ItemID": 5110097
+    },
+    {
+        "m_name": "Fang Sword",
+        "ItemID": 2000050
+    },
+    {
+        "m_name": "Forged Glass Mace",
+        "ItemID": 2020260
+    },
+    {
+        "m_name": "Palladium Claymore",
+        "ItemID": 2100120
+    },
+    {
+        "m_name": "Industrial Shield",
+        "ItemID": 2300340
+    },
+    {
+        "m_name": "Militia Greataxe",
+        "ItemID": 2110250
+    },
+    {
+        "m_name": "DamasceneSpear_Legacy",
+        "ItemID": 2130237
+    },
+    {
+        "m_name": "Kazite Spear",
+        "ItemID": 2130210
+    },
+    {
+        "m_name": "Giant Brass Key",
+        "ItemID": 2300110
+    },
+    {
+        "m_name": "Marble Axe",
+        "ItemID": 2010060
+    },
+    {
+        "m_name": "Brutal Greataxe",
+        "ItemID": 2110000
+    },
+    {
+        "m_name": "WendigoClaw",
+        "ItemID": 2400100
+    },
+    {
+        "m_name": "Radiant Wolf Sword",
+        "ItemID": 2000031
+    },
+    {
+        "m_name": "CalixaMaceGun",
+        "ItemID": 2020170
+    },
+    {
+        "m_name": "Brand",
+        "ItemID": 2000150
+    },
+    {
+        "m_name": "Giantkind Halberd",
+        "ItemID": 2140090
+    },
+    {
+        "m_name": "Gep's Blade",
+        "ItemID": 2000310
+    },
+    {
+        "m_name": "Iron Bardiche",
+        "ItemID": 2110030
+    },
+    {
+        "m_name": "EmberManClaw",
+        "ItemID": 2400430
+    },
+    {
+        "m_name": "Industrial Greataxe",
+        "ItemID": 2110240
+    },
+    {
+        "m_name": "Wolf Mace",
+        "ItemID": 2020230
+    },
+    {
+        "m_name": "Sanguine Cleaver",
+        "ItemID": 2140011
+    },
+    {
+        "m_name": "ObsidianChakram_Legacy",
+        "ItemID": 5110108
+    },
+    {
+        "m_name": "Shiv Dagger",
+        "ItemID": 5110003
+    },
+    {
+        "m_name": "Galvanic Golem Rapier ThornFish",
+        "ItemID": 2400143
+    },
+    {
+        "m_name": "Fang Greatclub",
+        "ItemID": 2120020
+    },
+    {
+        "m_name": "Grand Sabre",
+        "ItemID": 2000020
+    },
+    {
+        "m_name": "Inner Marble Shield",
+        "ItemID": 2300091
+    },
+    {
+        "m_name": "Wolf Halberd",
+        "ItemID": 2140180
+    },
+    {
+        "m_name": "Giantkind Greataxe",
+        "ItemID": 2110070
+    },
+    {
+        "m_name": "DjinFist",
+        "ItemID": 2400470
+    },
+    {
+        "m_name": "Forged Glass Greatmace",
+        "ItemID": 2120220
+    },
+    {
+        "m_name": "Horror Great Mace",
+        "ItemID": 2120150
+    },
+    {
+        "m_name": "Damascene Sword Legacy",
+        "ItemID": 2000235
+    },
+    {
+        "m_name": "Palladium Mace",
+        "ItemID": 2020100
+    },
+    {
+        "m_name": "Duty",
+        "ItemID": 2150175
+    },
+    {
+        "m_name": "Green Myconic Shield",
+        "ItemID": 2300220
+    },
+    {
+        "m_name": "NewGhostOneHandedSword_LowLvl",
+        "ItemID": 2400283
+    },
+    {
+        "m_name": "ObsidianDagger_Legacy",
+        "ItemID": 5110019
+    },
+    {
+        "m_name": "Astral Dagger",
+        "ItemID": 5110011
+    },
+    {
+        "m_name": "Phytosaur Horns",
+        "ItemID": 2400010
+    },
+    {
+        "m_name": "Zagis's Saw",
+        "ItemID": 2100030
+    },
+    {
+        "m_name": "Red-Hot Firepoker",
+        "ItemID": 2020070
+    },
+    {
+        "m_name": "Vampiric Dagger",
+        "ItemID": 5110007
+    },
+    {
+        "m_name": "TitanGolemHalberd",
+        "ItemID": 2400371
+    },
+    {
+        "m_name": "ShellHorrorClawBurning",
+        "ItemID": 2400132
+    },
+    {
+        "m_name": "Forged Glass Axe",
+        "ItemID": 2010220
+    },
+    {
+        "m_name": "Vampiric Great Axe",
+        "ItemID": 2110130
+    },
+    {
+        "m_name": "Obsidian Greataxe",
+        "ItemID": 2110210
+    },
+    {
+        "m_name": "Gold Lich Mace",
+        "ItemID": 2020060
+    },
+    {
+        "m_name": "Kazite Greatmace",
+        "ItemID": 2120190
+    },
+    {
+        "m_name": "BloodSpear",
+        "ItemID": 2130230
+    },
+    {
+        "m_name": "Tsar Greataxe",
+        "ItemID": 2110090
+    },
+    {
+        "m_name": "Rusted Spear",
+        "ItemID": 2130310
+    },
+    {
+        "m_name": "Mysterious Blade",
+        "ItemID": 2100300
+    },
+    {
+        "m_name": "GrandmotherReach",
+        "ItemID": 2400532
+    },
+    {
+        "m_name": "HailfrostShield",
+        "ItemID": 2300330
+    },
+    {
+        "m_name": "Obsidian Claymore_Legacy",
+        "ItemID": 2100255
+    },
+    {
+        "m_name": "Krypteia Giantkind Halberd",
+        "ItemID": 2400530
+    },
+    {
+        "m_name": "Old Guisarme",
+        "ItemID": 2130010
+    },
+    {
+        "m_name": "TitanGolemSword",
+        "ItemID": 2400372
+    },
+    {
+        "m_name": "Marble Greathammer",
+        "ItemID": 2120030
+    },
+    {
+        "m_name": "Industrial Claymore",
+        "ItemID": 2100280
+    },
+    {
+        "m_name": "Glowy Red Greataxe",
+        "ItemID": 2110001
+    },
+    {
+        "m_name": "Obsidian Mace",
+        "ItemID": 2020110
+    },
+    {
+        "m_name": "Marble Greataxe",
+        "ItemID": 2110021
+    },
+    {
+        "m_name": "Kazite Halberd",
+        "ItemID": 2140170
+    },
+    {
+        "m_name": "Gold Lich Spear",
+        "ItemID": 2130060
+    },
+    {
+        "m_name": "Obsidian Halberd_Legacy",
+        "ItemID": 2150095
+    },
+    {
+        "m_name": "Lionman Electric Mace",
+        "ItemID": 2400460
+    },
+    {
+        "m_name": "Mushroom Halberd",
+        "ItemID": 2130082
+    },
+    {
+        "m_name": "Horror Shield",
+        "ItemID": 2300160
+    },
+    {
+        "m_name": "Grotesque",
+        "ItemID": 2400320
+    },
+    {
+        "m_name": "IceFireStaff",
+        "ItemID": 2150150
+    },
+    {
+        "m_name": "Damascene Halberd",
+        "ItemID": 2150060
+    },
+    {
+        "m_name": "Horror Halberd",
+        "ItemID": 2140135
+    },
+    {
+        "m_name": "Brutal Spear",
+        "ItemID": 2130000
+    },
+    {
+        "m_name": "Iron Chakram",
+        "ItemID": 5110030
+    },
+    {
+        "m_name": "Palladium Greathammer",
+        "ItemID": 2120110
+    },
+    {
+        "m_name": "Brutal Club",
+        "ItemID": 2020020
+    },
+    {
+        "m_name": "Mysterious Chakram",
+        "ItemID": 5110070
+    },
+    {
+        "m_name": "Virgin Greatmace",
+        "ItemID": 2120180
+    },
+    {
+        "m_name": "Marble Claymore",
+        "ItemID": 2100040
+    },
+    {
+        "m_name": "Master's Staff",
+        "ItemID": 2150050
+    },
+    {
+        "m_name": "Distorted Experiment",
+        "ItemID": 5110111
+    },
+    {
+        "m_name": "Fang Shield",
+        "ItemID": 2300060
+    },
+    {
+        "m_name": "Horror Dagger",
+        "ItemID": 5110006
+    },
+    {
+        "m_name": "Industrial Axe",
+        "ItemID": 2010260
+    },
+    {
+        "m_name": "Mushroom Halberd",
+        "ItemID": 2140050
+    },
+    {
+        "m_name": "Horror Spear",
+        "ItemID": 2130170
+    },
+    {
+        "m_name": "Trog Mana Staff",
+        "ItemID": 2150040
+    },
+    {
+        "m_name": "Damascene Greatmace_Legacy",
+        "ItemID": 2120205
+    },
+    {
+        "m_name": "Vampiric Shield",
+        "ItemID": 2300240
+    },
+    {
+        "m_name": "ElementalParasiteEye",
+        "ItemID": 2400360
+    },
+    {
+        "m_name": "Tsar Mace",
+        "ItemID": 2020120
+    },
+    {
+        "m_name": "Obsidian Claymore",
+        "ItemID": 2100250
+    },
+    {
+        "m_name": "Obsidian Greatmace_Legacy",
+        "ItemID": 2120125
+    },
+    {
+        "m_name": "Damascene Sword",
+        "ItemID": 2000230
+    },
+    {
+        "m_name": "Fang Greataxe",
+        "ItemID": 2110010
+    },
+    {
+        "m_name": "Horror Sword",
+        "ItemID": 2000180
+    },
+    {
+        "m_name": "Boozu Proud Beast Horn",
+        "ItemID": 2400311
+    },
+    {
+        "m_name": "Palladium Greataxe",
+        "ItemID": 2110080
+    },
+    {
+        "m_name": "Troglodyte Pole Mace",
+        "ItemID": 2130081
+    },
+    {
+        "m_name": "Gold Club",
+        "ItemID": 2020131
+    },
+    {
+        "m_name": "Warm Axe",
+        "ItemID": 2010280
+    },
+    {
+        "m_name": "Militia Spear",
+        "ItemID": 2130301
+    },
+    {
+        "m_name": "Horror Mace",
+        "ItemID": 2020180
+    },
+    {
+        "m_name": "Galvanic Spear",
+        "ItemID": 2130190
+    },
+    {
+        "m_name": "JellyFishGreenStinger",
+        "ItemID": 2400481
+    },
+    {
+        "m_name": "GargoyleUrnCracked",
+        "ItemID": 2400492
+    },
+    {
+        "m_name": "Beast Golem Axe",
+        "ItemID": 2010080
+    },
+    {
+        "m_name": "Small Hatchet",
+        "ItemID": 2010050
+    },
+    {
+        "m_name": "ShellHorrorClawWeak",
+        "ItemID": 2400131
+    },
+    {
+        "m_name": "Fang Trident",
+        "ItemID": 2130020
+    },
+    {
+        "m_name": "Tsar Halberd",
+        "ItemID": 2140110
+    },
+    {
+        "m_name": "Kazite Blade Boss",
+        "ItemID": 2000211
+    },
+    {
+        "m_name": "Tuanosaur Claws Alpha",
+        "ItemID": 2400001
+    },
+    {
+        "m_name": "Tuanosaur Axe",
+        "ItemID": 2010090
+    },
+    {
+        "m_name": "Obsidian Axe_Legacy",
+        "ItemID": 2010235
+    },
+    {
+        "m_name": "Strange Rusted Sword",
+        "ItemID": 2000151
+    },
+    {
+        "m_name": "Shriek",
+        "ItemID": 2130315
+    },
+    {
+        "m_name": "BurningManClaw",
+        "ItemID": 2400210
+    },
+    {
+        "m_name": "Junk Claymore",
+        "ItemID": 2100210
+    },
+    {
+        "m_name": "Vampiric Halberd",
+        "ItemID": 2140140
+    },
+    {
+        "m_name": "Marble Shield",
+        "ItemID": 2300090
+    },
+    {
+        "m_name": "Jade-Lich Staff",
+        "ItemID": 2150010
+    },
+    {
+        "m_name": "PureIlluminatorHand",
+        "ItemID": 2400340
+    },
+    {
+        "m_name": "Wolf Shield",
+        "ItemID": 2300050
+    },
+    {
+        "m_name": "Crimson Shield",
+        "ItemID": 2300130
+    },
+    {
+        "m_name": "Kazite Chakram",
+        "ItemID": 5110050
+    },
+    {
+        "m_name": "Galvanic Great Mace",
+        "ItemID": 2120170
+    },
+    {
+        "m_name": "Scepter of the Cruel Priest",
+        "ItemID": 2020335
+    },
+    {
+        "m_name": "Runic Blade",
+        "ItemID": 2000100
+    },
+    {
+        "m_name": "Gold Hatchet",
+        "ItemID": 2010051
+    },
+    {
+        "m_name": "AncientDwellerHook",
+        "ItemID": 2400500
+    },
+    {
+        "m_name": "Jade Scimitar",
+        "ItemID": 2000120
+    },
+    {
+        "m_name": "De-powered Bludgeon",
+        "ItemID": 2120270
+    },
+    {
+        "m_name": "Giant Iron Key",
+        "ItemID": 2020080
+    },
+    {
+        "m_name": "Wolf Chakram",
+        "ItemID": 5110096
+    },
+    {
+        "m_name": "Gilded Shiver of Tramontane",
+        "ItemID": 5110345
+    },
+    {
+        "m_name": "Fang Halberd",
+        "ItemID": 2140020
+    },
+    {
+        "m_name": "Wolf Greathammer",
+        "ItemID": 2120010
+    },
+    {
+        "m_name": "Calygrey Mace Legacy",
+        "ItemID": 2020325
+    },
+    {
+        "m_name": "Thorn Chakram",
+        "ItemID": 5110090
+    },
+    {
+        "m_name": "slugHellVolcanicShell",
+        "ItemID": 2400551
+    },
+    {
+        "m_name": "Fossilized Greataxe",
+        "ItemID": 2110260
+    },
+    {
+        "m_name": "Rondel Dagger",
+        "ItemID": 5110000
+    },
+    {
+        "m_name": "Crystal Staff",
+        "ItemID": 2150041
+    },
+    {
+        "m_name": "DeerAlphaHorn",
+        "ItemID": 2400080
+    },
+    {
+        "m_name": "Mace of Seasons",
+        "ItemID": 2020160
+    },
+    {
+        "m_name": "Quarterstaff",
+        "ItemID": 2130030
+    },
+    {
+        "m_name": "Assassin Sword",
+        "ItemID": 2000130
+    },
+    {
+        "m_name": "Forge Golem LightBeak",
+        "ItemID": 2400203
+    },
+    {
+        "m_name": "Damascene Pistol",
+        "ItemID": 5110220
+    },
+    {
+        "m_name": "Kazite Pistol",
+        "ItemID": 5110200
+    },
+    {
+        "m_name": "Chimera Pistol",
+        "ItemID": 5110130
+    },
+    {
+        "m_name": "Wolf Pistol",
+        "ItemID": 5110210
+    },
+    {
+        "m_name": "Murmure Awaken Bow",
+        "ItemID": 2200191
+    },
+    {
+        "m_name": "Damascene Bow",
+        "ItemID": 2200130
+    },
+    {
+        "m_name": "War Bow",
+        "ItemID": 2200020
+    },
+    {
+        "m_name": "DamascenePistol_Legacy",
+        "ItemID": 5110320
+    },
+    {
+        "m_name": "Forged Glass Pistol",
+        "ItemID": 5110240
+    },
+    {
+        "m_name": "Militia Bow_Legacy",
+        "ItemID": 2200155
+    },
+    {
+        "m_name": "Obsidian Bow",
+        "ItemID": 2200180
+    },
+    {
+        "m_name": "Virgin Pistol",
+        "ItemID": 5110190
+    },
+    {
+        "m_name": "Tsar Bow",
+        "ItemID": 2200100
+    },
+    {
+        "m_name": "Ornate Pistol",
+        "ItemID": 5110120
+    },
+    {
+        "m_name": "Galvanic Bow",
+        "ItemID": 2200060
+    },
+    {
+        "m_name": "Horror Bow",
+        "ItemID": 2200030
+    },
+    {
+        "m_name": "Militia Pistol_Legacy",
+        "ItemID": 5110300
+    },
+    {
+        "m_name": "Gold Bow",
+        "ItemID": 2200001
+    },
+    {
+        "m_name": "Murmure Bow",
+        "ItemID": 2200190
+    },
+    {
+        "m_name": "Recurve Bow",
+        "ItemID": 2200010
+    },
+    {
+        "m_name": "Galvanic Pistol",
+        "ItemID": 5110180
+    },
+    {
+        "m_name": "Vampiric Pistol",
+        "ItemID": 5110170
+    },
+    {
+        "m_name": "Wolf Bow",
+        "ItemID": 2200090
+    },
+    {
+        "m_name": "Virgin Bow",
+        "ItemID": 2200070
+    },
+    {
+        "m_name": "Hand Cannon Pistol",
+        "ItemID": 5110110
+    },
+    {
+        "m_name": "Bone Pistol",
+        "ItemID": 5110140
+    },
+    {
+        "m_name": "Damascene Bow_Legacy",
+        "ItemID": 2200135
+    },
+    {
+        "m_name": "Vampiric Bow",
+        "ItemID": 2200050
+    },
+    {
+        "m_name": "Horror Pistol",
+        "ItemID": 5110160
+    },
+    {
+        "m_name": "Coralhorn Bow",
+        "ItemID": 2200040
+    },
+    {
+        "m_name": "Militia Pistol",
+        "ItemID": 5110290
+    },
+    {
+        "m_name": "IndustrialPistol",
+        "ItemID": 5110280
+    },
+    {
+        "m_name": "ObsidianPistol_Legacy",
+        "ItemID": 5110310
+    },
+    {
+        "m_name": "Hailfrost Bow",
+        "ItemID": 2200160
+    },
+    {
+        "m_name": "Industrial Bow",
+        "ItemID": 2200140
+    },
+    {
+        "m_name": "Chalcedony Bow",
+        "ItemID": 2200170
+    },
+    {
+        "m_name": "Forged Glass Bow",
+        "ItemID": 2200120
+    },
+    {
+        "m_name": "Flintlock Pistol",
+        "ItemID": 5110100
+    },
+    {
+        "m_name": "Obsidian Bow_Legacy",
+        "ItemID": 2200185
+    },
+    {
+        "m_name": "Militia Bow",
+        "ItemID": 2200150
+    },
+    {
+        "m_name": "Obsidian Pistol",
+        "ItemID": 5110150
+    },
+    {
+        "m_name": "Astral Bow",
+        "ItemID": 2200110
+    },
+    {
+        "m_name": "Chalcedony Pistol",
+        "ItemID": 5110260
+    },
+    {
+        "m_name": "Astral Pistol",
+        "ItemID": 5110230
+    },
+    {
+        "m_name": "Simple Bow",
+        "ItemID": 2200000
+    },
+    {
+        "m_name": "Kazite Bow",
+        "ItemID": 2200080
+    }
+]
